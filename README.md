@@ -1,10 +1,8 @@
-# Escuela-Normal-Superior
-Es contando mi experiencia como estudiante en la Normal Superior Charalá
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Experiencia En Once</title>
+    <title>Escuela Normal Superior Charalá</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -80,8 +78,10 @@ Es contando mi experiencia como estudiante en la Normal Superior Charalá
     </style>
 </head>
 <body>
+    <h1><center><ins><uiPromoción 2023 – Escuela Normal Superior
+        – Charalá, Santander.</ins></center></h1>
     <header>
-        <h1>Experiencia En La E.N.S</h1>
+        <h1><i>Grado 11°A</i></h1>
     </header>
 
     <div class="content">
@@ -92,11 +92,19 @@ Es contando mi experiencia como estudiante en la Normal Superior Charalá
         <div class="separator"></div>
 
         <section>
-            <h2>Un Año de Desafíos Académicos</h2>
-            <p>El grado once esta haciendo definitivamente un reto en cuanto a lo académico. Este año, mis clases se han vuelto más intensas y he tenido que aprender a organizarme mejor para cumplir con todas mis responsabilidades. Estoy tomando asignaturas avanzadas como Cálculo, Física y Literatura. Cada una de ellas me ha enseñado a pensar de manera crítica y a aplicar mis conocimientos de formas nuevas y emocionantes.</p>
+            <h2>La Mentalidad Fuerte</h2>
+            <p>Sé la <strong>Mierdad que son mis compañeros de grado once A</strong>, entonces me visto implicado tomar acción lo mas rápido posible en aprender un habilidad de alto valor <strong>por que mí actitud no refleja que seré exitoso acádemicamente</strong> no tengo nada que perder si aprendo ingles como  escalamientos </p>
         </section>
 
         <div class="separator"></div>
+
+        <section>
+            <h2>No me Interesa la Universidad</h2>
+            <p>La idiotez haría en hacer el mismo patrón<strong>que no hago:</strong> las tareas y actividades que no me interesa. 
+            <hr/>
+            la
+        </p>
+        </section>
 
         <section>
             <h2>Gestión del Tiempo y Responsabilidades</h2>
@@ -110,7 +118,8 @@ Es contando mi experiencia como estudiante en la Normal Superior Charalá
             <p>En las activdidades extracurriculares, por estos momentos esta:
                 <ol>
                     <li>Sena</li>
-
+                    <li>Biologia Mariposas</li>
+                    <li>Curso de reparar Celuko</li>
                 </ol>
             </p>
         </section>
@@ -119,22 +128,22 @@ Es contando mi experiencia como estudiante en la Normal Superior Charalá
 
         <section>
             <h2>Recursos y Apoyo</h2>
-            <p>Los recursos se pueden hacer con el día de vestirse de manera diferentes de la Escuela, rifas e cines por la tarde</p>
+            <p>Los recursos se pueden hacer con el día de vestirse de manera diferentes de la Escuela, rifas e cines por la tarde que son aburridisímas.</p>
         </section>
 
         <div class="separator"></div>
 
         <section>
             <h2>Mirando Hacia el Futuro</h2>
-            <p>Tiene una visión y una misión demasiada ambiciosa en que puede inferir con mucho en el colegio, pero tal como estudiante no</p>
+            <p>Tener una visión y una misión demasiada ambiciosa me puede inferir mucho en el rendimiento academico, pero tal como estudiante no lo he vivido tan presionado por relajamiento.</p>
         </section>
 
         <div class="separator"></div>
 
         <section>
             <h2>Un Balance Importante</h2>
-            <p>Una de las cosas más importantes que he aprendido este año es el balance. Encontrar tiempo para mis estudios, mis actividades extracurriculares y mi vida social ha sido clave para mantenerme feliz y saludable. Me aseguro de reservar tiempo para estar con mis amigos y familia, y también para mí misma, para descansar y recargar energías.</p>
-            <p>En resumen, el grado once es un año desafiante pero increíblemente gratificante. Estoy aprendido mucho, no solo en términos académicos, sino también sobre mí misma y lo que soy capaz de lograr. Estoy emocionado por lo que vendrá y agradecido por todas las oportunidades que he tenido hasta ahora en E.N.S.</p>
+            <p>Una de las cosas más importantes que he aprendido este año es el balance. Encontrar tiempo para mis estudios, mis actividades extracurriculares y mi vida social ha sido clave para mantenerme feliz y saludable. Me aseguro de reservar tiempo para estar con mis amigos y familia, y también para mí mismo, para descansar y recargar energías.</p>
+            <p>En resumen, el grado once es un año que termina para mí, pero increíblemente gratificante. Estoy aprendido mucho, no solo en términos académicos, sino también sobre mí misma y lo que soy capaz de lograr. Estoy emocionado por lo que vendrá y agradecido por todas las oportunidades que he tenido hasta ahora en E.N.S.</p>
         </section>
     </div>
 </body>
