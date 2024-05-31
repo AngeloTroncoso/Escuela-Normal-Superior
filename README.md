@@ -78,7 +78,7 @@
     </style>
 </head>
 <body>
-    <h1><center><ins><uiPromoción 2023 – Escuela Normal Superior
+    <h1><center><ins><ui></ui>Promoción 2023 – Escuela Normal Superior
         – Charalá, Santander.</ins></center></h1>
     <header>
         <h1><i>Grado 11°A</i></h1>
