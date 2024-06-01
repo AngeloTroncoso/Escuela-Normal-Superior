@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -78,74 +79,88 @@
     </style>
 </head>
 <body>
-    <h1><center><ins><ui></ui>Promoción 2023 – Escuela Normal Superior
-        – Charalá, Santander.</ins></center></h1>
+    <h1><center><ins><ui>Promoción 2024 – Escuela Normal Superior
+        – Charalá, Santander.</ui></ins></center></h1>
     <header>
         <h1><i>Grado 11°A</i></h1>
     </header>
 
     <div class="content">
         <section>
-            <p>¡Hola! Soy Ángelo, estudiante de grado once en Escuela Normal Superior. Quiero compartir un poco sobre mi experiencia este año, ya que ha sido un viaje lleno de aprendizajes, desafíos y crecimiento personal.</p>
+            <p>¡Buenas,soy Ángelo! el grado se esta <strong> pasando rápido</strong> y esto me motiva a contarte cualés a sido mis progresos que el luchado.</p>
         </section>
 
         <div class="separator"></div>
 
         <section>
-            <h2>La Mentalidad Fuerte</h2>
-            <p>Sé la <strong>Mierdad que son mis compañeros de grado once A</strong>, entonces me visto implicado tomar acción lo mas rápido posible en aprender un habilidad de alto valor <strong>por que mí actitud no refleja que seré exitoso acádemicamente</strong> no tengo nada que perder si aprendo ingles como  escalamientos </p>
+            <h2>El Grado Once Vuela</h2>
+            <p>Me visto implicado tomar acción lo mas rápido posible en aprender un habilidad de alto valor <strong>por que mí actitud no refleja que seré exitoso acádemicamente</strong> no tengo nada que perder si aprendo hablar de manera fluida en el ingles como inicio de otros constantes para saber de negocios, mayores oportunidades para sobresalir en la sociedad que me visto sumergido de tantas distraciones que <strong>ni siquiera el tomado el tiempo para estudiar el mínimo para un básico.</strong>
+                <br>
+                <br>
+                 El curso once le estoy encontrado el sentido para crear nuevos hábitos que sea buenos y excelente.</p>
         </section>
 
         <div class="separator"></div>
-
+<section>
+    <h2>¿Qué Quiero Cuando Sea Grande?</h2>
+    <p><strong>Nunca bajaré mi <i>Autoestima</i></strong>, por que de ellas veo todas las grandes oportunidades que me pueden abrir puertas, entonces; alimentadola con <strong>escuchar, ensayo e error en aplicado en alrededor con buenos hábtos.</strong>
+    <br>
+    <br> En el fondo y todo lo relación con el amor propio que debe se aguarda en el consciente e subconscientes es esencial para llevar una vida de respeto,por lo consiguiente; <strong>mi plan de vida durante estos meses, puede marcar la diferencia de apuntarme en una Universidad o no.</strong> 
+<br>
+<br>En estos me estoy formando para tener un buen vehículo de ingresos, osea; aprendiendo un oficio online, por que estar viviendo la sensación sin dinero es horrendo.</p>
+</section>
         <section>
-            <h2>No me Interesa la Universidad</h2>
-            <p>La idiotez haría en hacer el mismo patrón<strong>que no hago:</strong> las tareas y actividades que no me interesa. 
-            <hr/>
-            la
+            <h2>La Universidad</h2>
+            <p> La universidad en realidad <strong>es opcional, no es único medio para conseguir un conocimiento aplicable.</strong>Lo haría obligado pero buscaría la manera de salirme de la Universidad<strong> por que es abrumador no generar nada de aprovecho. </strong>
+            <br>
+            <br>
+            La educación que eligo es supremamente importante para trascender la vidas que vivo.
         </p>
         </section>
 
         <section>
-            <h2>Gestión del Tiempo y Responsabilidades</h2>
-            <p>Algo que realmente me ha ayudado este año es aprender a gestionar mi tiempo de manera efectiva. Con tantas tareas, proyectos y exámenes, he tenido que desarrollar un sistema para mantenerme al día. Uso una agenda para planificar mis semanas y establecer prioridades. Aprender a decir "no" a veces, para poder enfocarme en lo más importante, ha sido una lección valiosa.</p>
+            <h2>Mi Proyecto De Vida </h2>
+            <p>El proyecto de vida que quiero vivir es el camino de la rata,<strong>por que eso significa que no me esforzé a emprender mis sueños estos 5 meses que me queda.</strong>
+            <br>
+        <br>
+        El proyecto de vida que no deseo,ni quiero sino que estoy en progreso es de esforzame a llevar la vida que sueño de tener buenos hábitos por que de ellos me partiré a excursionar el viaje del emprendimiento, por lo tanto ser más espiritual para que Dios me ayude enfoncarme en la vida.
+    </p>
         </section>
 
         <div class="separator"></div>
 
         <section>
-            <h2>Actividades Extracurriculares</h2>
-            <p>En las activdidades extracurriculares, por estos momentos esta:
+            <h2>Estoy Agradecido Con La Normal</h2>
+            <p>En la oportunidades que me han ofrecido es:
                 <ol>
-                    <li>Sena</li>
-                    <li>Biologia Mariposas</li>
-                    <li>Curso de reparar Celuko</li>
+                    <li>La inclusión de actividades, estoy relajado, aunque no sea bueno para mí.</li>
+                    <li>Cerca de la casa, mejor dicho la diagonal de la cuadra.</li>
+                    <li>Siempre sea por la mañana.</li>
                 </ol>
             </p>
         </section>
 
         <div class="separator"></div>
-
         <section>
-            <h2>Recursos y Apoyo</h2>
-            <p>Los recursos se pueden hacer con el día de vestirse de manera diferentes de la Escuela, rifas e cines por la tarde que son aburridisímas.</p>
+            <h2>Una Nota Para Mí</h2>
+            <p> El año escolar esta terminando para iniciar con mi proyecto de vida seriamente, el estudio es importante y el día que dejé de aprender no podré ni estar en lo mínimo estandares para tener un trabajo digno.</p>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+        <p><strong><center>"Es mejor estar preparado para una oportunidad y no tenerla, que tener una oportunidad y no estar preparado"<sub><i>Les Browm</i></sub>
+        </center></strong></p>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+          <center>  <img src="https://plantillasdememes.com/img/plantillas/el-futuro-es-hoy-oiste-viejo21591021202.jpg"></center>
+    
         </section>
-
-        <div class="separator"></div>
-
-        <section>
-            <h2>Mirando Hacia el Futuro</h2>
-            <p>Tener una visión y una misión demasiada ambiciosa me puede inferir mucho en el rendimiento academico, pero tal como estudiante no lo he vivido tan presionado por relajamiento.</p>
-        </section>
-
-        <div class="separator"></div>
-
-        <section>
-            <h2>Un Balance Importante</h2>
-            <p>Una de las cosas más importantes que he aprendido este año es el balance. Encontrar tiempo para mis estudios, mis actividades extracurriculares y mi vida social ha sido clave para mantenerme feliz y saludable. Me aseguro de reservar tiempo para estar con mis amigos y familia, y también para mí mismo, para descansar y recargar energías.</p>
-            <p>En resumen, el grado once es un año que termina para mí, pero increíblemente gratificante. Estoy aprendido mucho, no solo en términos académicos, sino también sobre mí misma y lo que soy capaz de lograr. Estoy emocionado por lo que vendrá y agradecido por todas las oportunidades que he tenido hasta ahora en E.N.S.</p>
-        </section>
-    </div>
+        
 </body>
 </html>
+
 
