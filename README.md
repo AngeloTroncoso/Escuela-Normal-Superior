@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -80,9 +80,9 @@
 </head>
 <body>
     <h1><center><ins><ui>Promoción 2024 – Escuela Normal Superior
-        – Charalá, Santander.</ui></ins></center></h1>
+        – Charalá, Santander.</ui></ins></center><span style="text-decoration: underline; text-decoration-color: yellow;"></span></h1>
     <header>
-        <h1><i>Grado 11°A</i></h1>
+        <h1><i>Grado 11°A</i></h1><span style="text-decoration: underline; text-decoration-color: yellow;"></span>
     </header>
 
     <div class="content">
@@ -141,6 +141,20 @@
         </section>
 
         <div class="separator"></div>
+
+        <section><h1>Entrenar Mi Ritmo</h1>
+            <p>La concentración lo debó tener mas en cuenta. Para eso me debó educar, es <strong>dificíl iniciar un nuevo estilo de vida, pero cuando ya tiene el incertivo la cosa cambia.</strong></p>
+        <br>
+    <br>
+    <br>
+    <center><img src="C:\Users\usuario\Desktop\HOTMART\INTRO.ANGELOSAUL.html\Segunda Etapa\Imagene de las AI\Concentración.jpg" widht="500" height="300"></center>
+    <br>
+    <br>
+    <big>Hábito que mantiene muy mal es scrolls infinito,<strong>es mi culpa si no me respeto mi tiempo y dejar que los demás sigan comportanse como una mierdad conmigo</strong>,por que "me toca trabajar y estudiar en lo que no quiero", me mantenga infeliz y sin propósito.</big>
+    <br>
+    <br>
+    <center><img src="https://th.bing.com/th/id/OIP.qZwQXxaBhsOg0KkITAQFRAHaEK?w=750&h=422&rs=1&pid=ImgDetMain" width="500" height="300"></center>
+    </section>
         <section>
             <h2>Una Nota Para Mí</h2>
             <p> El año escolar esta terminando para iniciar con mi proyecto de vida seriamente, el estudio es importante y el día que dejé de aprender no podré ni estar en lo mínimo estandares para tener un trabajo digno.</p>
@@ -160,7 +174,10 @@
     
         </section>
         
+
 </body>
 </html>
+
+
 
 
